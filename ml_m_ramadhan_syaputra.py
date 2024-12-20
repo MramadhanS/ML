@@ -12,7 +12,6 @@ Dataset yang saya gunakan untuk Research ini adalah used_car_dataset.csv atau da
 
 import pandas as pd
 import numpy as np
-import seaborn as sn
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import LabelEncoder
 import seaborn as sns
