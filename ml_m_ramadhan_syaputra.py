@@ -22,7 +22,7 @@ import matplotlib.pyplot as plt
 Proses Data Wrangling ini meliputi
 """
 
-df = pd.read_csv('/content/used_car_dataset.csv')
+df = pd.read_csv('/used_car_dataset.csv')
 print (df.head(10))
 print (df.info())
 
